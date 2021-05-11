@@ -1,2 +1,2 @@
 const a = 10
-let b = 5
+let b = 10
